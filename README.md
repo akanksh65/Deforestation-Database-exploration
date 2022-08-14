@@ -22,7 +22,7 @@ Keep in mind that the column forest_area_sqkm in the forest_area table and the l
 
 Questions answered in the report based on SQL queries run on ak_deforestation.sql:
 
-# 1. GLOBAL SITUATION:
+## 1. GLOBAL SITUATION:
 a. What was the total forest area (in sq km) of the world in 1990? Please keep in mind that you can use the country record denoted as “World" in the region table.
 
 b. What was the total forest area (in sq km) of the world in 2016? Please keep in mind that you can use the country record in the table is denoted as “World.”
@@ -34,7 +34,7 @@ d. What was the percent change in forest area of the world between 1990 and 2016
 e. If you compare the amount of forest area lost between 1990 and 2016, to which country's total area in 2016 is it closest to?
 
 
-# 2. REGIONAL OUTLOOK:
+## 2. REGIONAL OUTLOOK:
 a. What was the percent forest of the entire world in 2016? Which region had the HIGHEST percent forest in 2016, and which had the LOWEST, to 2 decimal places?
 
 b. What was the percent forest of the entire world in 1990? Which region had the HIGHEST percent forest in 1990, and which had the LOWEST, to 2 decimal places?
@@ -42,7 +42,7 @@ b. What was the percent forest of the entire world in 1990? Which region had the
 c. Based on the table you created, which regions of the world DECREASED in forest area from 1990 to 2016?
 
 
-# 3. COUNTRY LEVEL DETAIL:
+## 3. COUNTRY LEVEL DETAIL:
 a. Which 5 countries saw the largest amount decrease in forest area from 1990 to 2016? What was the difference in forest area for each?
 
 b. Which 5 countries saw the largest percent decrease in forest area from 1990 to 2016? What was the percent change to 2 decimal places for each?
